@@ -3,7 +3,7 @@ import SectionSubtitle from "./SectionSubtitle";
 import { Container, Row, Col } from "reactstrap";
 import Image from "next/image";
 import Link from "next/link";
-import heroImg from "../../public/images/hero.jpg";
+import heroImg from "../../public/images/benoLopesDias.jpeg";
 import classes from "../../styles/hero.module.css";
 
 const Hero = () => {
@@ -15,12 +15,13 @@ const Hero = () => {
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
-              <h2 className="mt-3 mb-3">I&apos;m Muhibur Rahman</h2>
-              <h5 className="mb-4">Frontend Developer</h5>
+              <h2 className="mt-3 mb-3">I&apos;m Beno Lopes Dias</h2>
+              <h5 className="mb-4">FullStack Developer</h5>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
-                quos!
+                Beno Lopes Dias, a skilled FullStack developer, DevOps
+                practitioner, and cloud architect. Passionate about delivering
+                better design and exceptional user experiences through
+                innovative solutions.
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
@@ -69,7 +70,7 @@ const Hero = () => {
                 </span>
                 <div className="bg-transparent">
                   <h6>Experience</h6>
-                  <h5 className="mb-0">4 Years</h5>
+                  <h5 className="mb-0">3 Years</h5>
                 </div>
               </div>
             </div>

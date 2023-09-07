@@ -14,7 +14,14 @@ const Form = () => {
         <input type="email" placeholder="Email Address" required />
       </div>
       <div className={`${classes.form__group}`}>
-        <textarea type="text" rows={5} placeholder="Message" required />
+        <textarea
+          type="text"
+          name="mensagem"
+          id="mensagem"
+          rows={5}
+          placeholder="Message"
+          required
+        />
       </div>
 
       <button className="primary__btn" type="submit">

@@ -29,11 +29,14 @@ const Services = () => {
             <h3 className="mb-0 mt-4">Better Design,</h3>
             <h3 className="mb-4">Better Experience</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non amet
-              culpa nobis corporis officiis, numquam cupiditate, enim expedita
-              eveniet dolorum, aliquid nesciunt sapiente illo voluptatum!
-              Dolores fuga mollitia atque, placeat minima quibusdam accusantium!
-              Veniam, non distinctio dolorem rerum laboriosam deleniti.
+              I&apos;m Beno Lopes Dias, a FullStack developer, DevOps
+              practitioner, and experienced in cloud architecture. My focus is
+              on delivering better design and an exceptional user experience. By
+              combining aesthetics, functionality, and usability, I create
+              visually appealing and intuitive interfaces. I prioritize factors
+              like navigability, performance, accessibility, and responsiveness
+              to ensure a high-quality user experience. Let&apos;s collaborate
+              to elevate your projects with innovative and impactful solutions.
             </p>
           </Col>
         </Row>

@@ -14,9 +14,11 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">Contact with me</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
-              beatae ratione iusto cum. Doloremque suscipit eius provident error
-              labore est reprehenderit, exercitationem corrupti earum deleniti!
+              If you have any questions or would like to discuss a project,
+              please don&apos;t hesitate to reach out to me. You can contact me
+              through the provided contact information or send me an email. I
+              look forward to hearing from you and exploring how we can work
+              together to achieve your goals!
             </p>
 
             <ul className={`${classes.contact__info__list}`}>
@@ -24,19 +26,19 @@ const Contact = () => {
                 <span>
                   <i className="ri-map-pin-line"></i>
                 </span>
-                <p>Sylhet - Bangladesh</p>
+                <p>Auckland- New Zealand / São Paulo - Brazil</p>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>
                   <i className="ri-mail-line"></i>
                 </span>
-                <p>muhib5532@gmail.com</p>
+                <p>benolopesdias@gmail.com</p>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>
                   <i className="ri-phone-line"></i>
                 </span>
-                <p>+088123456789</p>
+                <p>+640273327439</p>
               </li>
             </ul>
 

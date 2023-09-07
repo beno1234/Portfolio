@@ -21,11 +21,13 @@ const About = () => {
             <h3 className="mt-4">I&apos;m here</h3>
             <h3 className="mb-4">to help your next project</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-              neque asperiores temporibus quo saepe odio, esse labore libero
-              obcaecati quidem explicabo blanditiis deleniti ex vitae ratione
-              ullam fugiat dicta eum sint officiis porro illum quia. Error quam
-              cum excepturi beatae.
+              I&apos;m Beno Lopes Dias, a FullStack developer, DevOps
+              practitioner, and experienced in cloud architecture. My passion
+              for technology drives me to create innovative and efficient
+              solutions. With skills in both front-end and back-end development,
+              along with expertise in DevOps practices and cloud architecture,
+              I&apos;m well-equipped to tackle challenges and deliver
+              exceptional results. I&apos;m here to help with your next project.
             </p>
 
             <div className=" d-flex align-items-center gap-5">

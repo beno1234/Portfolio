@@ -86,7 +86,7 @@
 
 /* ========== make it responsive ========= */
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1000px) {
   .navigation {
     position: fixed;
     top: 0;

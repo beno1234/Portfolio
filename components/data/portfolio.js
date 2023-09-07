@@ -55,29 +55,29 @@ const portfolio = [
 
   {
     id: "07",
-    title: "Portfolio Website",
-    img: "/images/portfolio-07.png",
+    title: "Agency Website",
+    img: "/images/bmouse.png",
     category: "Web Design",
     keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
+    liveUrl: "https://www.bmouseproductions.com/",
   },
 
   {
     id: "08",
-    title: "Restaurant Website",
-    img: "/images/portfolio-08.png",
+    title: "Pets Website",
+    img: "/images/petsmellon.png",
     category: "Web Design",
     keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
+    liveUrl: "https://petsmellon.com.br/",
   },
 
   {
     id: "09",
-    title: "Agency Website",
-    img: "/images/portfolio-09.png",
+    title: "Doctor Website",
+    img: "/images/luiz.png",
     category: "Web Design",
     keyword: ["Web", "Web design", "UI-UX"],
-    liveUrl: "#",
+    liveUrl: "https://drluis.netlify.app/",
   },
 ];
 

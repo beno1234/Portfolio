@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React, { useRef, useEffect } from "react";
 
 import { Container } from "reactstrap";
@@ -59,7 +60,7 @@ const Header = () => {
           {/* ======== navigation logo ======== */}
           <div className={`${classes.logo}`}>
             <h1>
-              <span>M</span>uhib
+              <span>B</span>eno
             </h1>
           </div>
 
@@ -77,10 +78,13 @@ const Header = () => {
               ))}
 
               <div className={`${classes.nav__right}`}>
-                <p className=" d-flex align-items-center gap-2 mb-0">
+                <a href="https://wa.link/jzafk6" target="_blank">
                   {" "}
-                  <i className="ri-phone-line"></i> +088123456789{" "}
-                </p>
+                  <p className=" d-flex align-items-center gap-2 mb-0">
+                    {" "}
+                    <i className="ri-phone-line"></i> +640273327439{" "}
+                  </p>
+                </a>
               </div>
             </div>
           </div>
