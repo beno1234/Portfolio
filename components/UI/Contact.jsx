@@ -26,7 +26,7 @@ const Contact = () => {
                 <span>
                   <i className="ri-map-pin-line"></i>
                 </span>
-                <p>Auckland- New Zealand / São Paulo - Brazil</p>
+                <p>Auckland- New Zealand</p>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>
@@ -43,19 +43,20 @@ const Contact = () => {
             </ul>
 
             <div className={`${classes.social__links}`}>
-              <Link href="#">
-                <i className="ri-youtube-line"></i>
-              </Link>
-              <Link href="#">
+              <Link href="https://github.com/beno1234" target="_blank">
                 <i className="ri-github-line"></i>
               </Link>
-              <Link href="#">
-                <i className="ri-facebook-line"></i>
-              </Link>
-              <Link href="#">
+
+              <Link
+                href="https://www.linkedin.com/in/beno-dias-5b5a45211/"
+                target="_blank"
+              >
                 <i className="ri-linkedin-line"></i>
               </Link>
-              <Link href="#">
+              <Link
+                href="https://www.instagram.com/benolopes123/"
+                target="_blank"
+              >
                 <i className="ri-instagram-line"></i>
               </Link>
             </div>
